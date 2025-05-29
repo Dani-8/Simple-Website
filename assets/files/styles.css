@@ -514,9 +514,10 @@ html, body {
 
 .sec-circles{
     /* margin-bottom: 0%; */
-    position: absolute;
-    right: 270px;
-    bottom: 25%;
+    position: relative;
+    left: 150px;
+    bottom: -25px;
+
 }
 .sec-circles div{
     height: 35px;
@@ -609,7 +610,7 @@ html, body {
 
 .videotitle{
     position: relative;
-    bottom: 120px;
+    bottom: 150px;
     left: -50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: rgb(65, 65, 65, 0.7);
