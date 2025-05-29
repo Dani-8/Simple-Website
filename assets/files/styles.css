@@ -102,6 +102,11 @@ html, body {
     /* vertical-align: middle; */
     
 }
+.nav-links p > a {
+    text-decoration: none;
+    color: white;
+    
+}
 
 .btn{
     height: 70%;
