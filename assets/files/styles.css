@@ -608,6 +608,7 @@ html, body {
 }
 
 .videotitle{
+    position: relative;
     bottom: 120px;
     left: -50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
